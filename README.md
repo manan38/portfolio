@@ -1,2 +1,2 @@
-This project is deployed on the web as manan38.netlify.app 
-Visit the link
+## Live Demo
+[Visit the deployed project here](https://manan38.netlify.app)
